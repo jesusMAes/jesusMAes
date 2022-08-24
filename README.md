@@ -28,18 +28,29 @@ I've studied Information sciences & journalism but since my second year of unive
 
 
 
+# List of Projects:
 
-<!--
-**jesusMAes/jesusMAes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Portfolio](https://jesusmaes.github.io/myPortfolio/): 
+This was a hard project because I want to provide something original, not just a cute portfolio with a few css animations so I made a minigame in which you can learn more about me, my studies & my knowledge. First I learn how to make this on canvas, then I learned how to create maps in tiled and how to render its in Javacript
+But render all the map constantly it's a waste of memory so then I learned how to optimize this rendering in order to render only the visible map and that this render react to the player moves, lastly I learned the basis of Phaser to manage beter performance and code the game in a scene based  focus and add features like reading one of my favourites books inside the game
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![portfolioPreview](https://user-images.githubusercontent.com/95760152/186515455-a79b29c7-6682-48de-b33d-5ca75d552016.png)
+
+## [CDU Sorter](https://jesusmaes.github.io/learning-frontent-OrdenarNumeroCDU/):
+
+CDU is the special documental language in which librarians classify books (if you are from EEUU probably you use Dewey classification), one of the clasics homeworks in librarians studies is to get a bunch of numbers and sort them following the special order that reigns in CDU classification. This web is a help to correct those exercises
+
+<img src="https://user-images.githubusercontent.com/95760152/186516343-d793dddd-a042-4e60-89fb-d015e321d896.png" alt="drawing" width="300"/>
+
+
+## [APA Citation web](https://jesusmaes.github.io/citame-esta/):
+
+Every university students has fight with APA format, and usually has lose. Every of us has used web tools like cite this for me or zotero, I wanted to practise React so I make a (small version) of this webs using react!
+
+
+
+<img src="https://user-images.githubusercontent.com/95760152/186517023-f7a157c6-1036-4018-9be0-9ab1c1b44f2e.png" alt="drawing" width="500"/>
+
+
+
