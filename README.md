@@ -30,6 +30,13 @@ I've studied Information sciences & journalism but since my second year of unive
 
 # List of Projects:
 
+## [MERN Blog](https://github.com/jesusMAes/fullstackBlog): 
+Once I learned and practise a lot the fronted I jump into the backend, this is a practice project made while learning to make fullstack aplications, it uses the MERN Stack, so I created and API with node & express to get the handle the client request, connected it to a databse with MongoDb and mongoose, manage the context with react context and made the front and navigation with react.  In this blog you can create an user, login and logout, create new posts, add images to those posts, edit and delete it...
+
+![previewblog](https://user-images.githubusercontent.com/95760152/188438285-72130ffa-531b-431e-aa5a-d218b9cd9c5d.gif)
+
+
+
 ## [Portfolio](https://jesusmaes.github.io/myPortfolio/): 
 This was a hard project because I want to provide something original, not just a cute portfolio with a few css animations so I made a minigame in which you can learn more about me, my studies & my knowledge. First I learn how to make this on canvas, then I learned how to create maps in tiled and how to render its in Javacript
 But render all the map constantly it's a waste of memory so then I learned how to optimize this rendering in order to render only the visible map and that this render react to the player moves, lastly I learned the basis of Phaser to manage beter performance and code the game in a scene based  focus and add features like reading one of my favourites books inside the game
