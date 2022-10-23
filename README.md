@@ -24,11 +24,25 @@ I've studied Information sciences & journalism but since my second year of unive
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 
 
 
 # List of Projects:
+
+## [Murcia Concertada](https://github.com/jesusMAes/murciaConcertada1):
+A weekend exercise that uses public information to obtain economic subsidy data in semi-private schools in the region of Murcia. With the data I use Ngx charts to show its temporal variation. Also list all the subsidies using Angular material. You can search, order, and filter the data. In adition you can see specific data as number of students, number of teachers and a more detailed view of the subsidy.
+
+![murciaConcertada](https://user-images.githubusercontent.com/95760152/197410588-d9170c41-4bc6-49c6-802e-b3d1911869ed.gif)
+
+
+## [Murcia Natural](https://github.com/jesusMAes/Murcia-natural):
+A practice exercise made with Angular while exploring RISP with the spanish transparency portal datos.gob.es. This app uses the API to get a list of natural places from Murcia. The using this data generate a beautifull view. I made it with angular material and primeNg, it uses Google Maps to show you the way to the place and display more specific info in fold-out cards
+
+![murcianaturalpreview](https://user-images.githubusercontent.com/95760152/197410270-ed97c6cb-2cd7-478c-afb3-58d7b08106eb.gif)
+
 
 ## [MERN Blog](https://github.com/jesusMAes/fullstackBlog): 
 Once I learned and practise a lot the fronted I jump into the backend, this is a practice project made while learning to make fullstack aplications, it uses the MERN Stack, so I created and API with node & express to get the handle the client request, connected it to a databse with MongoDb and mongoose, manage the context with react context and made the front and navigation with react.  In this blog you can create an user, login and logout, create new posts, add images to those posts, edit and delete it...
