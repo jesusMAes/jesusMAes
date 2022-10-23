@@ -45,7 +45,7 @@ A practice exercise made with Angular while exploring RISP with the spanish tran
 
 
 ## [MERN Blog](https://github.com/jesusMAes/fullstackBlog): 
-Once I learned and practise a lot the fronted I jump into the backend, this is a practice project made while learning to make fullstack aplications, it uses the MERN Stack, so I created and API with node & express to get the handle the client request, connected it to a databse with MongoDb and mongoose, manage the context with react context and made the front and navigation with react.  In this blog you can create an user, login and logout, create new posts, add images to those posts, edit and delete it...
+Once I learned and practise a lot the fronted I jump into the backend, this is a practice project made while learning to make fullstack aplications, it uses the MERN Stack, so I created and API with node & express to handle the client request, connected it to a database with MongoDb and mongoose, manage the context with react context and made the front and navigation with react.  In this blog you can create an user, login and logout, create new posts, add images to those posts, edit and delete it...
 
 ![previewblog](https://user-images.githubusercontent.com/95760152/188438285-72130ffa-531b-431e-aa5a-d218b9cd9c5d.gif)
 
