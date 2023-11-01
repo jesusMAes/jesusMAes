@@ -26,16 +26,19 @@ I've studied Information sciences & journalism but since my second year of unive
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
 
 # List of Projects:
 
-## [Murcia Concertada](https://github.com/jesusMAes/murciaConcertada1):
-A weekend exercise that uses public information to obtain economic subsidy data in semi-private schools in the region of Murcia. With the data I use Ngx charts to show its temporal variation. Also list all the subsidies using Angular material. You can search, order, and filter the data. In adition you can see specific data as number of students, number of teachers and a more detailed view of the subsidy.
+  ## [Pokeweather](https://jesusmaes.github.io/pokeweather/):
+A fullstack Java project.
+Composed by a desktop aplication that renders a Spain map with dinamyc pokemons over each city according to the weather forecast.
+A Spring API that delivers weather forecast and his associated pokemons.
+A React frontend web that exploit the API to order and paint the data
 
-![murciaConcertada](https://user-images.githubusercontent.com/95760152/197410588-d9170c41-4bc6-49c6-802e-b3d1911869ed.gif)
 
 
 ## [Murcia Natural](https://github.com/jesusMAes/Murcia-natural):
