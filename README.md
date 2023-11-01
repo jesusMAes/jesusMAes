@@ -41,6 +41,11 @@ A React frontend web that exploit the API to order and paint the data
 
 ![poketiempo](https://github.com/jesusMAes/jesusMAes/assets/95760152/c650b4b2-2c48-4b2b-9a11-7289638deab7)
 
+## [Murcia Concertada](https://github.com/jesusMAes/murciaConcertada1):
+A weekend exercise that uses public information to obtain economic subsidy data in semi-private schools in the region of Murcia. With the data I use Ngx charts to show its temporal variation. Also list all the subsidies using Angular material. You can search, order, and filter the data. In adition you can see specific data as number of students, number of teachers and a more detailed view of the subsidy.
+
+![murciaConcertada](https://user-images.githubusercontent.com/95760152/197410588-d9170c41-4bc6-49c6-802e-b3d1911869ed.gif)
+
 
 ## [Murcia Natural](https://github.com/jesusMAes/Murcia-natural):
 A practice exercise made with Angular while exploring RISP with the spanish transparency portal datos.gob.es. This app uses the API to get a list of natural places from Murcia. The using this data generate a beautifull view. I made it with angular material and primeNg, it uses Google Maps to show you the way to the place and display more specific info in fold-out cards
